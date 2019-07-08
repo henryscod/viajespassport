@@ -1,0 +1,14 @@
+
+#embassy{
+	padding: 50px 0 110px;
+}
+
+#embassy h2{
+	color: #188FDA;
+	margin-bottom: 50px;
+}
+
+#embassy iframe{
+	margin-left: 170px;
+	border-radius: 20px;
+}
